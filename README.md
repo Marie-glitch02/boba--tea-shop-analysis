@@ -1,4 +1,4 @@
-# boba--tea-shop-analysis
+# boba tea shop 
 Working on data optimization
 ## Project Overview
 As a data analyst at a marketing agency in San Francisco, I was tasked with preparing a dataset for a potential collaboration with local boba tea shops. The goal was to target top-rated shops within a 10-mile radius of our focus area. My team sourced data on shop ratings and locations from an online source, but the dataset was messy and inconsistent. It was my responsibility to identify the problematic elements, clean the data, and ensure it was accurate and ready for analysis to support our campaign planning efforts.
